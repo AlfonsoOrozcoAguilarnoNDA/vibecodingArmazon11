@@ -89,6 +89,16 @@ Diseño: Colores elegantes y modernos para entorno de oficina. Navbar oscura. Co
 **FIN DE PROMPT**
 
 ---
+### ⚠️ Disclaimer de Auditoría Técnica
+
+Para garantizar que los modelos sean evaluados en un entorno funcional y justo, se realizaron ajustes menores de "fontanería" en los archivos generados. Estos cambios no alteran la lógica de programación original de la IA:
+
+1. **Estandarización de CDNs (jsDelivr):** En los casos donde la IA entregó enlaces rotos, obsoletos o incompatibles (especialmente el conflicto común entre Popper.js y Bootstrap 4), se migraron los scripts a **jsDelivr** para asegurar la carga de la interfaz.
+2. **Credenciales de Prueba:** Se unificó la contraseña hardcoded a `123*` en todos los archivos. Esto permite una revisión rápida y uniforme por parte de la comunidad, probando además el manejo de caracteres especiales en el login.
+3. **Integridad Lógica:** La arquitectura del código, el manejo de sesiones PHP, el diseño de la Navbar, la estructura de los 10 dropdowns y la lógica del generador de contraseñas permanecen **100% intactos**, tal cual fueron entregados por cada modelo. Hubo un caso solamente que pasé de 10 dropdowns a 5 parapoder ver el botón de logout.
+
+*El objetivo de esta limpieza es juzgar la capacidad de razonamiento y diseño de la IA, no su capacidad para encontrar un link de CDN actualizado en su base de datos de entrenamiento.*
+---
 
 ## 🚀 Requisitos Mínimos
 1. Hospedaje compartido con PHP 7.x o superior y acceso a cPanel.
