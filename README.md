@@ -46,7 +46,7 @@ El experimento original se corrió contra modelos que viven en tu propia máquin
 
 ---
 
-## 📂 PARTE 2 — Once IAs Desconocidas (Marzo 2026)
+## 📂 PARTE 2 — Once IAs Desconocidas (11 de Marzo 2026)
 
 Artículo completo: [https://vibecodingmexico.com (Parte 2 — Once IAs desconocidas)](https://vibecodingmexico.com/ejercicio-con-once-ias-desconocidas/)
 
