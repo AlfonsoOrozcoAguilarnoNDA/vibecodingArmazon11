@@ -1,4 +1,4 @@
-# vibecodingLogin — Experimento en dos partes (Feb-Mar 2026)
+# vibecodingArmazon11  — Experimento en dos partes (Feb-Mar 2026)
 ### Auditoría de PHP Login: Modelos Locales vs. Once IAs en la Nube
 
 Este repositorio documenta dos experimentos consecutivos realizados en **[vibecodingmexico.com](https://vibecodingmexico.com)**. El mismo prompt de login en PHP fue probado primero contra modelos locales y luego contra once plataformas de IA poco conocidas.
