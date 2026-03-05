@@ -23,7 +23,7 @@ Elegimos **cPanel** porque es el estándar de la industria desde hace 25 años y
 
 Artículo completo: https://vibecodingmexico.com/un-nuevo-login-modelo-local/
 
-El experimento original se corrió contra modelos que viven en tu propia máquina. La regla general: necesitas el doble de RAM que el tamaño del modelo. Un modelo de 30b necesita 32gb para correr bien.
+El experimento original se corrió contra modelos que viven en tu propia máquina. La regla general: Se sugiere el doble de RAM que el tamaño del modelo, ypor lo menos la misma cantidad. Un modelo de 30b necesita 32gb para correr bien. No lo puedes correr en 16gb. Recuerda también el sobrecalentamiento, lee el articulo completo.
 
 | Candidato | Tipo | Resultado | Demo |
 | :--- | :--- | :---: | :--- |
