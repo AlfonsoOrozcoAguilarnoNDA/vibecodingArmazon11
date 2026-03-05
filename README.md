@@ -74,17 +74,43 @@ El mismo prompt fue usado en ambas partes:
 
 **INICIO PROMPT**
 
+INICIO PROMPT
+
 Crea un sistema de login en PHP 7.x+ con las siguientes características:
 
-Stack: Bootstrap 4.6 (CDN), Font Awesome 5 (CDN), PHP puro, sin frameworks.
+Stack:
 
-Login: Una contraseña hardcoded en el archivo. Si es incorrecta, muestra error en la misma página. Si es correcta, redirige al dashboard.
+Bootstrap 4.6 (CDN)
+Font Awesome 5 (CDN)
+PHP puro, sin frameworks
+Login:
 
-Dashboard: Barra de navegación FIJA superior. Menú dropdown con exactamente 10 opciones (1 a 10) con ícono de Font Awesome. Un enlace externo visible en la barra. Di que modelo de IA eres. Versión actual de PHP. Opción de logout que regresa al login. Footer fijo en la parte inferior.
+Una contraseña hardcoded en el archivo
+Si es incorrecta, muestra error en la misma página
+Si es correcta, redirige al dashboard
+Dashboard:
 
-Una de las 10 opciones del menú debe ser un generador de contraseñas con estas reglas: 13 caracteres, letras mayúsculas, minúsculas y números, sin estos caracteres: 0, 1, i, o, m (ni mayúsculas ni minúsculas). Botón para generar y botón para copiar al portapapeles.
+Barra de navegación FIJA superior
+Menú dropdown con exactamente 10 opciones (1 a 10) con unicon de font awesome
+Un enlace externo visible en la barra
+Di que modelo de IA eres
+Version Actual de php
+Opción de logout que regresa al login
+Footer fijo en laparte inferior
+Una de las 10 opciones del menú debe ser un generador de contraseñas con estas reglas:
 
-Diseño: Colores elegantes y modernos para entorno de oficina. Navbar oscura. Consistente en todas las vistas. Entrega todo en un solo archivo.
+13 caracteres
+Letras mayúsculas, minúsculas y números
+Sin estos caracteres: 0, 1, i, o, m (ni mayúsculas ni minúsculas)
+Botón para generar y botón para copiar al portapapeles
+Diseño:
+
+Colores elegantes y modernos para entorno de oficina
+Navbar oscura
+Consistente en todas las vistas
+Entrega todo en un solo archivo.
+
+FIN DE PROMPT
 
 **FIN DE PROMPT**
 
